@@ -57,7 +57,7 @@ def DataSet(**kwargs):
                     'pointHoverBorderColor', 'pointHoverBorderWidth', 'pointStyle',
                     'data', 'label', 'backgroundColor', 'borderColor', 'borderWidth',
                     'hoverBackgroundColor', 'hoverBorderColor', 'hoverBorderWidth',
-                    'hoverRadius'}
+                    'hoverRadius', 'hidden'}
 
     assert_keys('DataSet', allowed_keys, kwargs)
 

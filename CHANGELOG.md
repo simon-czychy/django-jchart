@@ -1,5 +1,9 @@
 ## Changelog
 
+### Version 0.5.1
+
+* Added support for 'hidden' config properties to hide `DataSet` by default
+
 ### Version 0.5.0
 
 * Better Django backwards compatibility
